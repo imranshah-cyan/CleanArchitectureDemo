@@ -1,0 +1,15 @@
+C:\0.Repos\CleanArchitectureDemo\Infrastructure\bin\Debug\net8.0\Infrastructure.deps.json
+C:\0.Repos\CleanArchitectureDemo\Infrastructure\bin\Debug\net8.0\Infrastructure.dll
+C:\0.Repos\CleanArchitectureDemo\Infrastructure\bin\Debug\net8.0\Infrastructure.pdb
+C:\0.Repos\CleanArchitectureDemo\Infrastructure\bin\Debug\net8.0\Domain.dll
+C:\0.Repos\CleanArchitectureDemo\Infrastructure\bin\Debug\net8.0\Domain.pdb
+C:\0.Repos\CleanArchitectureDemo\Infrastructure\obj\Debug\net8.0\Infrastructure.csproj.AssemblyReference.cache
+C:\0.Repos\CleanArchitectureDemo\Infrastructure\obj\Debug\net8.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\0.Repos\CleanArchitectureDemo\Infrastructure\obj\Debug\net8.0\Infrastructure.AssemblyInfoInputs.cache
+C:\0.Repos\CleanArchitectureDemo\Infrastructure\obj\Debug\net8.0\Infrastructure.AssemblyInfo.cs
+C:\0.Repos\CleanArchitectureDemo\Infrastructure\obj\Debug\net8.0\Infrastructure.csproj.CoreCompileInputs.cache
+C:\0.Repos\CleanArchitectureDemo\Infrastructure\obj\Debug\net8.0\Infrastructure.csproj.CopyComplete
+C:\0.Repos\CleanArchitectureDemo\Infrastructure\obj\Debug\net8.0\Infrastructure.dll
+C:\0.Repos\CleanArchitectureDemo\Infrastructure\obj\Debug\net8.0\refint\Infrastructure.dll
+C:\0.Repos\CleanArchitectureDemo\Infrastructure\obj\Debug\net8.0\Infrastructure.pdb
+C:\0.Repos\CleanArchitectureDemo\Infrastructure\obj\Debug\net8.0\ref\Infrastructure.dll

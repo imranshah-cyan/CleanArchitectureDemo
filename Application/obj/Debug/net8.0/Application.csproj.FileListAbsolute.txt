@@ -1,0 +1,17 @@
+C:\0.Repos\CleanArchitectureDemo\Application\bin\Debug\net8.0\Application.deps.json
+C:\0.Repos\CleanArchitectureDemo\Application\bin\Debug\net8.0\Application.dll
+C:\0.Repos\CleanArchitectureDemo\Application\bin\Debug\net8.0\Application.pdb
+C:\0.Repos\CleanArchitectureDemo\Application\bin\Debug\net8.0\Domain.dll
+C:\0.Repos\CleanArchitectureDemo\Application\bin\Debug\net8.0\Infrastructure.dll
+C:\0.Repos\CleanArchitectureDemo\Application\bin\Debug\net8.0\Domain.pdb
+C:\0.Repos\CleanArchitectureDemo\Application\bin\Debug\net8.0\Infrastructure.pdb
+C:\0.Repos\CleanArchitectureDemo\Application\obj\Debug\net8.0\Application.csproj.AssemblyReference.cache
+C:\0.Repos\CleanArchitectureDemo\Application\obj\Debug\net8.0\Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\0.Repos\CleanArchitectureDemo\Application\obj\Debug\net8.0\Application.AssemblyInfoInputs.cache
+C:\0.Repos\CleanArchitectureDemo\Application\obj\Debug\net8.0\Application.AssemblyInfo.cs
+C:\0.Repos\CleanArchitectureDemo\Application\obj\Debug\net8.0\Application.csproj.CoreCompileInputs.cache
+C:\0.Repos\CleanArchitectureDemo\Application\obj\Debug\net8.0\Application.csproj.CopyComplete
+C:\0.Repos\CleanArchitectureDemo\Application\obj\Debug\net8.0\Application.dll
+C:\0.Repos\CleanArchitectureDemo\Application\obj\Debug\net8.0\refint\Application.dll
+C:\0.Repos\CleanArchitectureDemo\Application\obj\Debug\net8.0\Application.pdb
+C:\0.Repos\CleanArchitectureDemo\Application\obj\Debug\net8.0\ref\Application.dll
